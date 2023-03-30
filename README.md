@@ -9,4 +9,6 @@ Algunas cosas sobre mi:
 + Me gusta cocinar
 + Aguante el guiso de lentejas 🍲
 
-![yo😎](yo.jpg)
+---
+
+<img src="yo.jpg" width="300" />
