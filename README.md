@@ -8,7 +8,7 @@ Algunas cosas sobre mi:
 + Trabajo arreglando computadoras
 + Me gusta cocinar
 + Aguante el guiso de lentejas 🍲
-
++ Fanático del Club Atlético San Miguel también conocido como el Trueno Verde ⚡💚⚡
 ---
 
 <img src="yo.jpg" width="300" />
